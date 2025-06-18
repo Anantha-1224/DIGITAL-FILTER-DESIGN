@@ -19,4 +19,5 @@ Filter design is the process of designing a signal processing filter that satisf
 SOME ADVANTAGES
 One of the main advantages of digital filters is their flexibility and accuracy. Unlike analog filters, which have fixed characteristics and are prone to component variations, temperature changes, and aging effects, digital filters can be easily designed, modified, and optimized using software tools
 OUTPUT
+
 data_out = 8'h56
